@@ -30,4 +30,3 @@ Feel free to explore, fork, and contribute to any project. I'm open to suggestio
 
 ---
 
-This description is comprehensive and gives a clear idea of what your repository contains while keeping it approachable.

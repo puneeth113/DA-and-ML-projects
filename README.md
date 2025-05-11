@@ -1,6 +1,3 @@
-Here's your complete and polished **README.md** for your healthcare mini project, integrating **clustering** and **Random Forest classification** models:
-
----
 
 # 🏥 Healthcare Data Analysis & ML Project
 

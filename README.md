@@ -94,5 +94,3 @@ Visualized:
 * Tune hyperparameters further for better accuracy
 
 ---
-
-Let me know if you want this saved as a `.md` file or pushed to your Git repo.
